@@ -1,5 +1,5 @@
 # Hello, World!
 
-я учусь в нетологии
+studyiing
 
 21/06/24
